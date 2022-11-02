@@ -1,6 +1,6 @@
 ## GradientView Getting Started Xamarin.Forms
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms Gradient View](https://help.syncfusion.com/xamarin/gradient-view/getting-started) control. The Gradient View control provides the gradient background to various views of applications. It supports Linear and Radial gradient.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms Gradient View](https://help.syncfusion.com/xamarin/gradient-view/getting-started) control. The Gradient View control provides the gradient background to various views of applications. It supports Linear and Radial gradient.
 
 ## Syncfusion controls:
 
